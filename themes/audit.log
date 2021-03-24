@@ -1,0 +1,44 @@
+[Apr 20 15:40:55] LOGIN prisma: Authentication Failure to Web Interface login. Invalid user prisma from 192.168.0.10.
+[Apr 20 15:41:01] LOGIN prisma: Authentication Failure to Web Interface login. Invalid user prisma from 192.168.0.10.
+[Apr 20 15:41:06] LOGIN admin: Web Interface login successful. Accepted password for admin from 192.168.0.10.
+[Apr 20 15:41:47] NAVIGATION admin: User admin visited "System >> Users >> Users" from 192.168.0.10.
+[Apr 20 15:42:10] NAVIGATION admin: User admin visited "System >> Users >> Users" from 192.168.0.10.
+[Apr 20 15:42:19] LOGOUT admin: Web Interface logout successful. Accepted logout for admin from 192.168.0.10.
+[Apr 20 15:42:27] LOGIN prisma: Web Interface login successful. Accepted password for prisma from 192.168.0.10.
+[Apr 20 15:43:32] NAVIGATION prisma: User prisma visited "System >> Preferences >> Themes" from 192.168.0.10.
+[Apr 20 15:43:38] NAVIGATION prisma: User prisma visited "System >> Preferences >> Themes" from 192.168.0.10.
+[Apr 20 15:54:30] NAVIGATION prisma: User prisma visited "Call Center >> Agent Console" from 192.168.0.10.
+[Apr 20 15:56:09] NAVIGATION prisma: User prisma visited "Addons >> Addons" from 192.168.0.10.
+[Apr 20 16:00:24] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:01:39] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:02:03] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:02:13] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:02:36] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:03:02] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:03:26] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:03:59] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:04:23] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:04:34] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:04:59] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:05:21] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:07:23] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:07:39] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:08:06] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:08:15] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:08:30] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:08:49] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:09:03] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:09:18] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:09:38] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:09:55] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:10:13] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:10:57] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:11:32] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:12:06] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:12:25] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:12:44] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:13:08] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:13:26] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:13:45] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:14:43] NAVIGATION prisma: User prisma visited "PBX >> PBX Configuration" from 192.168.0.10.
+[Apr 20 16:32:23] LOGOUT prisma: Web Interface logout successful. Accepted logout for prisma from 192.168.0.10.
